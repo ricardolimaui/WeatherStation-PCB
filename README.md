@@ -1,4 +1,4 @@
-# Unparallel_Weather Station PCB
+# Unparallel Weather Station PCB
 
 The Unparallel Weather Station allows anyone to build their own low-cost weather station, using our custom open-source PCB. The software for the weather station is also open-source and can be used as is, or freely customized to meet your own needs and requirements. A model for printing a 3D case for your weather station is also provided.
 
