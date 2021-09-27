@@ -26,3 +26,5 @@ The weather station uses an external sensor (AM2315) for reading temperature and
 *	2.5W Solar Panel (116x160mm)
 *	Sigfox antenna (868MHz)
 *	LoPy 4.0
+
+This work was done in the context of SmartAgriHubs Research Project, which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 818182
